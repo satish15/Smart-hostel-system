@@ -15,7 +15,7 @@ import sis.com.dao.ComplainDao;
 import sis.com.daoFactory.DaoFactory;
 
 /**
- * Servlet implementation class DeleteComplain
+ * Servlet class DeleteComplain
  */
 public class DeleteComplain extends HttpServlet {
 	private static final long serialVersionUID = 1L;
